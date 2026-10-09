@@ -3,9 +3,9 @@
 ## Sobre mí
 Soy un **desempleado** en formación activa, apasionado por aprender problemas a través de código limpio y eficiente. Actualmente me encuentro inmerso en un curso intensivo.
 
-- 🔭 **Actualmente trabajando en:** Nada
-- 🌱 **En constante aprendizaje:** Profundizando en nuevas tecnologías.
-- 🎯 **Objetivo:** Sumarme a un equipo dinámico donde pueda aportar valor desde el primer día y seguir creciendo profesionalmente.
+-   **Actualmente trabajando en:** Nada
+-   **En constante aprendizaje:** Profundizando en nuevas tecnologías.
+-   **Objetivo:** Sumarme a un equipo dinámico donde pueda aportar valor desde el primer día y seguir creciendo profesionalmente.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
